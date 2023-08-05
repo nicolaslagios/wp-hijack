@@ -32,8 +32,8 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
   Also we also need to find a function that characterizes the file.
 */
 $theme_replaced_files_array = [
-    0 => ["inc/helpers/helpers-shortcode.php","function flatsome_to_dashed("], //file, identifier (eg a function name)
-    //1 => ['file.php', 'function some_dentifier_function('],
+    //0 => ["inc/helpers/helpers-shortcode.php","function flatsome_to_dashed("], //flatsome theme file replacement example
+    //1 => ['file.php', 'function some_dentifier_function('], //file, identifier (eg a function name)
 ];
 
 $plugins_replaced_files_array = [
