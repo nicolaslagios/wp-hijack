@@ -6,11 +6,15 @@
 
 ## Description
 
-Important!!!
-This is alpha version. Has been tested only on Virtualmin VPS.
-Maybe it works on another servers (plesk, cpanel, etc) but keep in mind to have a backup of your files before run it.
-In a future version I intend to change the whole philosophy of the Plugin. That is, instead of replacing content, rename the old file to _old and put the new modified file in its place. Tests will also be done on other servers (mainly for the problem with absolute paths) and backend management panel will be added.
-Until then, Salut ;)
+<div style="border: 1px solid black; padding: 10px;">
+
+**Alpha Version Warning**: This project is currently in its alpha version. It has been tested exclusively on Virtualmin VPS. While it might function on other servers like Plesk, cPanel, etc., it's strongly recommended to create a backup of your files before executing it.
+
+In forthcoming versions, I plan to overhaul the entire philosophy of the plugin. Rather than simply replacing content, the new approach will involve renaming the old file to `_old` and situating the modified new file in its designated place. Rigorous testing will also be conducted on different servers (primarily to address issues with absolute paths). Moreover, a backend management panel is on the roadmap.
+
+Until these advancements are realized, cheers and best of luck! 😉
+
+</div>
 
 WP Hijack is a WordPress plugin developed by Nicolas Lagios that allows you to preserve your theme and plugin customizations even after updates. Instead of losing your changes, this plugin hijacks specific files and replaces their content with custom versions from within the plugin, ensuring your modifications remain intact.
 
