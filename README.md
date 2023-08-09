@@ -7,7 +7,7 @@
 ## Description
 
 Important!!!
-This is alpha version. Has been tested only in Virtualmin VPS.
+This is alpha version. Has been tested only on Virtualmin VPS.
 Maybe it works on another servers (plesk, cpanel, etc) but keep in mind to have a backup of your files before run it.
 In a future version I intend to change the whole philosophy of the Plugin. That is, instead of replacing content, rename the old file to _old and put the new modified file in its place. Tests will also be done on other servers (mainly for the problem with absolute paths) and backend management panel will be added.
 Until then, Salut ;)
